@@ -44,6 +44,9 @@ input {
 .palindromeResult {
   font-size: 1.5em;
   margin-top: 1em;
+  color: #1f0516;
+  font-weight: 700;
+  text-shadow: 2px 2px 3px #ca8b43a1;
 }
 
 button {
