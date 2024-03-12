@@ -1,0 +1,63 @@
+body {
+  background-color: #1f0516;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+  text-shadow: 2px 2px 3px #3a0c4da1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+}
+
+input {
+  font-size: 1em;
+  padding: 0.5em;
+  margin: 0.5em;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px #280c4da1;
+  font-family: inherit;
+  color: #1f0516;
+  font-weight: 700;
+}
+
+.palindromeCheck {
+  font-size: 1em;
+  padding: 4em;
+  margin: 0.5em;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px #4d2e0cd9;
+  background-color: #976026;
+  color: white;
+  cursor: pointer;
+}
+
+.palindromeResult {
+  font-size: 1.5em;
+  margin-top: 1em;
+}
+
+button {
+  font-size: 1em;
+  padding: 0.5em 1em;
+  margin: 0.5em;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px #380735a1;
+  background-color: #7a4b19;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1f0516;
+}
